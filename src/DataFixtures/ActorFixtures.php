@@ -13,6 +13,7 @@ class ActorFixtures extends Fixture
         'Norman Reedus',
         'Andrew Lincoln',
         'Lauren Cohan',
+        'Danai Gurira',
         'Jeffrey Dean Morgan',
         'Chandler Riggs',
     ];
