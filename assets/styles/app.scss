@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+
+:root {
+    --primary-color:white;
+    --secondary-color:gray;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:var(--primary-color);
+    font-size: 1.2rem;
+    text-align: center;
+}
+h1 {
+    color:var(--secondary-color);
+}
